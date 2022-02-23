@@ -1,0 +1,1010 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble representation and address of severall churches and Christians in South VVales, and Munmouth-shire, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45096</idno>
+            <idno type="STC">Wing H3629</idno>
+            <idno type="STC">ESTC R221340</idno>
+            <idno type="EEBO-CITATION">99832665</idno>
+            <idno type="PROQUEST">99832665</idno>
+            <idno type="VID">37139</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45096)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37139)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2148:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble representation and address of severall churches and Christians in South VVales, and Munmouth-shire, &amp;c.</title>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by VVilliam Bladen,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>anno Dom. 1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religion --  Monmouth (Wales) --  Early works to 1800.</term>
+               <term>Religion --  Wales --  Early works to 1800.</term>
+               <term>Monmouth (Wales) --  History --  Early works to 1800.</term>
+               <term>Wales --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37139:1" rendition="simple:additions"/>
+            <p>The Humble REPRESENTATION <hi>AND</hi> ADDRESS Of ſeverall <hi>Churches</hi> and <hi>Chriſtians</hi> in South VVALES, and MUNMOUTH-<hi>ſhire, &amp;c.</hi>
+            </p>
+            <figure/>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Printed by VVILLIAM BLADEN, <hi>Anno Dom.</hi> 1655.</p>
+            <pb facs="tcp:37139:2"/>
+            <pb facs="tcp:37139:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:37139:3"/>
+            <pb n="3" facs="tcp:37139:3"/>
+            <head>To his Highneſs OLIVER LORD PROTECTOR Of the Common-wealth of <hi>England, Scotland</hi> and <hi>Ireland,</hi> and the Dominions and Territories thereunto belonging. The humble Repreſentation and addreſs of ſeverall Churches and Chriſtians in South Wales, and Monmouth-ſhire.</head>
+            <opener>
+               <salute>May it pleaſe your Highneſs,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">V</seg>VE ſhould yet longer have contented our ſelves with praying and praiſing God for you, in ſecret, and ta<g ref="char:EOLhyphen"/>ken advantage from our diſtance as
+<pb n="4" facs="tcp:37139:4"/>to publique affairs, and from your Highneſſes moſt Chriſtian and fa<g ref="char:EOLhyphen"/>vourable underſtanding of us, to have ſtill for born any addreſs of this manner to You; but that a late prin<g ref="char:EOLhyphen"/>ted Paper, Intituled <hi>(A Word for God, or a teſtimony, &amp;c. from ſeverall Chur<g ref="char:EOLhyphen"/>ches, and divers hundreds of Chriſtians in Wales, &amp;c.)</hi> comming to our view (the largeneſs of which title to thoſe that did not compare it with the ſub<g ref="char:EOLhyphen"/>ſcriptions, nor know that Country might ſeem to involve under it the generallity of the good people there) VVe therefore think our ſelves loud<g ref="char:EOLhyphen"/>ly called upon, to aſſure your Highneſs, that moſt of ſuch as feare the Lord in that Country, are not led aſide with thoſe temptations, but continue ſtill through grace, ſuch as you judged them once to be, highly
+<pb n="5" facs="tcp:37139:4"/>eſteeming and honouring not onely your Perſon, or being before them in Chriſt, but alſo that Government and Magiſtracy which God by moſt eminent, and ſignall providences, hath called You to the exerciſe of, o<g ref="char:EOLhyphen"/>ver theſe Nations, and cannot now but in the reare of ſome thouſands of good people, beare our teſtimony in this manner to it, as that wherein at preſent, we believe the cauſe, and in<g ref="char:EOLhyphen"/>tereſt of God, ſo long contended for, the protection of the Saints, the liber<g ref="char:EOLhyphen"/>ty of the Goſpell, the intereſts of all the people, are under God imbar<g ref="char:EOLhyphen"/>qued; And we cannot ſee if ſome who are ſo earneſtly ſet againſt this Government (and for no other viſi<g ref="char:EOLhyphen"/>bly) had their wills, how theſe mer<g ref="char:EOLhyphen"/>cies can be preſerved to us. And in<g ref="char:EOLhyphen"/>deed (my Lord) it hath not a little
+<pb n="6" facs="tcp:37139:5"/>affected us, that while you are ſitting at the Sterne, and wreſtling with dif<g ref="char:EOLhyphen"/>ficulties for us, any profesſing Chriſt (and eſpecially from among us) ſhould the while, be doing the thing that tends evidently to ſink the whole Veſſell, Nor can You eaſily judge how much we are grieved that your Highneſs ſhould have any ſeeming occaſion, to think the generallity of the poor Saints of <hi>Wales,</hi> who were once ſo much your joy, ſhould now ſo ſadly degenerate, as to have head, heart, or hand in this unſeemly Pa<g ref="char:EOLhyphen"/>per. And though we hope we ſhould have hearts to bleſſe God for You exceedingly, if we might but under You lead a quiet and peace<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble life in all godlineſs, and honeſty (as who, having a heart to it may not, and be alſo greatly encouraged
+<pb n="7" facs="tcp:37139:5"/>from the Authority) which is a mer<g ref="char:EOLhyphen"/>cy would have been valued at an o<g ref="char:EOLhyphen"/>ther rate by our Fore-fathers, and ſuch as no Nation in the world be<g ref="char:EOLhyphen"/>ſides, that we hear of, do injoy, Yet we cannot reſt there, but muſt ac<g ref="char:EOLhyphen"/>knowledge that (which in private hath rejoyced our hearts) we ſee o<g ref="char:EOLhyphen"/>ther good things upon the wheele: Endeavours and waies taken to re<g ref="char:EOLhyphen"/>move all oppresſions from the bo<g ref="char:EOLhyphen"/>dies of men, alſo godly Governours, appointed into all parts to protect the well affected, and diſcountenance ſin and wickedneſs. Taxes leſſened as far (at leaſt) as the ſafety and pre<g ref="char:EOLhyphen"/>ſervation of the whole could give way. Godly Proteſtants of For<g ref="char:EOLhyphen"/>reign parts owned, and ſympathized with, in their diſtreſs; Deſignes laid in the moſt probable way for the ex<g ref="char:EOLhyphen"/>tirpation
+<pb n="8" facs="tcp:37139:6"/>of Popery, and making fur<g ref="char:EOLhyphen"/>ther paſſage for the Goſpell, and Kingdom of our Lord in the world; which the hearts, and ſpirits of the Saints, for this many hundred years have been engaged on, and yet we wonder, Friends, that ſeemed once to be of the ſame mind, ſhould take the advantage that was too ſadly given the Enemy, to paſs ſo hard a ſentence upon the works of God, whole waies are in the deep; not weighing aright what experience might have taught us all ere this, that his uſuall courſe is to pull down where he intends to build, and to make inſtruments baſe and vile, that his own arme may be conſidered, when he ſhall appear with them. And we humbly take notice, that not onely in this caſe men that run before God, in preſcribing
+<pb n="9" facs="tcp:37139:6"/>waies, and times, for the bringing forth the mercifull diſpenſations, he hath pomiſed to theſe latter dayes, ſeem to have a ſpirit to the work in their own time and way, but none in Gods. And for what remains undone of all that was declared, prayed, and ſought for, we and the reſt of our Brethren of this Com<g ref="char:EOLhyphen"/>mon-wealth, may if we would deale faithfully with God, and our ſelves juſtly acknowledge, that our grie<g ref="char:EOLhyphen"/>vous ſins, and our ſad unparralleld abuſe of thoſe manifold mercies al<g ref="char:EOLhyphen"/>ready received, together with the monſtrous pettiſhneſs, and too com<g ref="char:EOLhyphen"/>mon indiſpoſition in divers good men; to follow God, and to yeild cheerfull obedience to him in the Government, (which doubtleſs is of his own workmanſhip) is the re<g ref="char:EOLhyphen"/>all
+<pb n="10" facs="tcp:37139:7"/>proper Cauſe, why any good things hoped for, by any man, is ſo ſadly retarded, and indangered, it is not our meaning to trace our Bre<g ref="char:EOLhyphen"/>thren, in all the particulars inſtan<g ref="char:EOLhyphen"/>ced in that Paper; as the impriſoning ſome Noblemen, &amp;c. which VVe conceive to be the mildeſt courſe could be taken, and keep them from ruining themſelves, and hazard the whole Nation with them, and we wiſh in naming ſuch with the reſpect they do, though Cavileers and Ene<g ref="char:EOLhyphen"/>mies, our Brethren, to magnifie the oppoſition, do not forget the ſpirit themſelves were once of towards they, and all their Party; nor what they urge touching the continuing the Army together, with the Taxes, Cuſtomes, Exciſe, &amp;c. even as they ſay in the time of Peace, without
+<pb n="11" facs="tcp:37139:7"/>conſidering by what hands under God, that Peace, and all the Mercies with it, as it was obtained; is to this very hour (and as yet cannot with<g ref="char:EOLhyphen"/>out a Mirracle be otherwiſe) con<g ref="char:EOLhyphen"/>ceived to us, onely we are ſo far from undervaluing, that we muſt remem<g ref="char:EOLhyphen"/>ber and own with them the noble Principles, that were in ſome of our Patriots in the old Parliament, and the frequent appearances of God, for his Cauſe and People, during their ſitting, and yet wonder our brethren ſhould ſo ſoon forget their own ſence of them in the latter end, how wea<g ref="char:EOLhyphen"/>ry they were grown of their Go<g ref="char:EOLhyphen"/>vernment, and how far they were then from judging it to be a diſho<g ref="char:EOLhyphen"/>nour to God, a ſcandall to Religion, or grief to good men, to have a pe<g ref="char:EOLhyphen"/>riod put to that authority. But we
+<pb n="12" facs="tcp:37139:8"/>greatly fear many of our dear Bre<g ref="char:EOLhyphen"/>thren take too too much liberty, to cenſure the manifeſt revolutions, and actions, that the right hand of God hath brought forth amongſt us, and to ravell into, and put contrary ſen<g ref="char:EOLhyphen"/>ces on thoſe paſſages of Providence, which themſelves, together with the Generation of Saints, had once writ<g ref="char:EOLhyphen"/>ten EBENEZER upon, which God in his own time will (we hope mer<g ref="char:EOLhyphen"/>cifully convince them of, in the mean ſpace as VVe have through Grace ſome fellow-feeling with you in your burthens, ſo we rejoyce in the goodneſs of God to You, that hath armed You with ſuch a mea<g ref="char:EOLhyphen"/>ſure of ſtrength, as in the middeſt of trouble, enough from other hands, to be able to bear with the nume<g ref="char:EOLhyphen"/>rous oppoſitions, contradictions, and
+<pb n="13" facs="tcp:37139:8"/>infirmicies of the weak Saints; and while the ſpirit that is in them (which perhaps they knew not) carried them to be pulling down, the VVall, and Hedge, God hath ſet about them. That You ſhould ſtill con<g ref="char:EOLhyphen"/>tinue a Protection and Defence to them, and us, and not to be diſ<g ref="char:EOLhyphen"/>couraged in the work of God under Your hands, and we truſt that the provocations and evill of this late Paper (though it be very great) will not prevaile over that glorious Spirit in You, but that You will ſtill in ſome likeneſs to-Your Heavenly Father, be doing good for evill, and rendering love and compaſſion for perverſneſs, and ſo convince ca<g ref="char:EOLhyphen"/>lumny it ſelf, And God even Your God will be with You in the reſt of the VVorks he hath given You to
+<pb n="14" facs="tcp:37139:9"/>do, And (after we hope many years longer over us) reckon You a<g ref="char:EOLhyphen"/>mongſt the Over-commers, and welcome You into his own Eternall Ioy and Glory, which is the Pray<g ref="char:EOLhyphen"/>er of</p>
+            <closer>
+               <signed>Your Highneſs moſt humble Servants, and Subjects in the Lord, &amp;c.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="list">
+            <pb facs="tcp:37139:9"/>
+            <pb facs="tcp:37139:10"/>
+            <pb n="17" facs="tcp:37139:10"/>
+            <head>The Names of the Subſcribers.</head>
+            <list>
+               <item>RAl. Williams</item>
+               <item>Edw Harry</item>
+               <item>Geor. Robinſon</item>
+               <item>H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gh Rogers</item>
+               <item>Io<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Nicholas</item>
+               <item>William Blethy</item>
+               <item>Edward Herbert</item>
+               <item>Thomas Martin.</item>
+               <item>Iohn Williams</item>
+               <item>George Morgan</item>
+               <item>Rich. Williams</item>
+               <item>Rice Iones</item>
+               <item>Richard Parker.</item>
+               <item>Morgan Iones</item>
+               <item>Iohn Gregory</item>
+               <item>Thomas Calles</item>
+               <item>Nichol. Peather</item>
+               <item>William Arnold</item>
+               <item>Iohn Watkins</item>
+               <item>Lewes Rogers</item>
+               <item>Robert Iones</item>
+               <item>Iames Kemeyd</item>
+               <item>Alexander Iones</item>
+               <item>Francis Watkins</item>
+               <item>Walter William</item>
+               <item>Harry Iohn</item>
+               <item>William Iohn</item>
+               <item>Robert Curnock</item>
+               <item>Griffin Ienkin</item>
+               <item>William Pitcher</item>
+               <item>Francis Iohn</item>
+               <item>Walter Howel</item>
+               <item>Andrew Lewes</item>
+               <item>Edward Lewis</item>
+               <item>Lewis Richard</item>
+               <item>George Edwards</item>
+               <item>Morgan William</item>
+               <item>Hopkin Rogers</item>
+               <item>Morgan Roſſer</item>
+               <item>Iohn Bygan</item>
+               <item>Roſſer Edward</item>
+               <item>Walter William</item>
+               <item>Rich. Howel</item>
+               <item>William Thomas</item>
+               <item>Giles Morgan</item>
+               <item>Rice Williams</item>
+               <item>Roſſer Thomas</item>
+               <item>Harry Thomas</item>
+               <item>Edw. Iohn</item>
+               <item>Tho. Williams</item>
+               <item>Thomas Arney</item>
+               <item>Robert Baker</item>
+               <item>William Richard</item>
+               <item>Lewis Evan</item>
+               <item>Iohn Thomas</item>
+               <item>Knewill Thomas</item>
+               <item>Walt. Williams</item>
+               <item>Charles Iones</item>
+               <item>Thomas William</item>
+               <item>Edw. Hutton</item>
+               <item>Iohn Baker</item>
+               <item>George Ambroſe</item>
+               <item>William Packer</item>
+               <item>Edmond Iones <hi>of</hi> Itton.</item>
+               <item>Wil. Richard <hi>Iun.</hi>
+               </item>
+               <item>Thomas George</item>
+               <item>Rice Williams</item>
+               <item>Thomas Iones</item>
+               <item>VValt. Radock</item>
+               <item>Rich. Charnock</item>
+               <item>Hen. VValter</item>
+               <item>VValt. Ienkins</item>
+               <item>Iohn Taylor</item>
+               <item>Iohn Perin</item>
+               <item>Iohn VValter</item>
+               <item>Iohn Iones</item>
+               <item>Iohn Morgan</item>
+               <item>VVil. Philips</item>
+               <item>Roſſer VVilliams</item>
+               <item>VVil. Potheras</item>
+               <item>Richard Pen</item>
+               <item>Rich. Namer</item>
+               <item>David Iones</item>
+               <item>Francis Sincus</item>
+               <item>VVil. Bide</item>
+               <item>VVroth Richard</item>
+               <item>Rich. Buller</item>
+               <item>Iohn VVilliams</item>
+               <item>Thomas VVhite</item>
+               <pb n="18" facs="tcp:37139:11"/>
+               <item>Iames Morris</item>
+               <item>Roger VVilliams</item>
+               <item>Thomas Evans</item>
+               <item>Greſham Bray</item>
+               <item>Charles Ienkins</item>
+               <item>Philip VVilliams</item>
+               <item>Iohn Davies</item>
+               <item>Iohn Morgan</item>
+               <item>David Morgan</item>
+               <item>Thomas Caple</item>
+               <item>VValt. Richards</item>
+               <item>George VVhite</item>
+               <item>Lawr. Nonney.</item>
+               <item>VVil. Iones</item>
+               <item>Iohn Iones</item>
+               <item>VVil. Iones</item>
+               <item>Iohn Evans</item>
+               <item>Iohn Morris</item>
+               <item>Iohn Powel</item>
+               <item>R. Ouldaukine</item>
+               <item>Iohn Bowens</item>
+               <item>Iohn Daniel</item>
+               <item>Tho. VVilliams</item>
+               <item>Maur. Bedwill</item>
+               <item>Iames Iones</item>
+               <item>Iohn Roberts</item>
+               <item>Tho. Philips</item>
+               <item>Iohn Daniel <hi>Iun.</hi>
+               </item>
+               <item>Rowl. Thomas</item>
+               <item>Iohn VVhithear</item>
+               <item>Thomas Daniel</item>
+               <item>Hopk. Thomas</item>
+               <item>Iohn Morgan</item>
+               <item>VVil. Price</item>
+               <item>Frankl. Mathews</item>
+               <item>Lancl. VVilliam</item>
+               <item>Evan ab Owen</item>
+               <item>Robert VVilliam</item>
+               <item>VValt. Iones</item>
+               <item>Iohn Biyes</item>
+               <item>Daniel Higgs</item>
+               <item>VVil. Richard</item>
+               <item>Iohn Thomas</item>
+               <item>Ienkin Byvan</item>
+               <item>M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rma. Mathews</item>
+               <item>VVil. Iones</item>
+               <item>Griffin Bowen</item>
+               <item>VVil. Prichard</item>
+               <item>David Baily</item>
+               <item>Ioh. Retherought</item>
+               <item>Matthew Iones</item>
+               <item>Edward Lewes</item>
+               <item>Iames Philips</item>
+               <item>Evan Griffiths</item>
+               <item>Moor Py</item>
+               <item>VVilliam Baily</item>
+               <item>VVilliam Morris</item>
+               <item>Iohn Ace</item>
+               <item>Ienkin Tayler</item>
+               <item>Richard Bevan</item>
+               <item>Iohn Lucas</item>
+               <item>Iohn Knaeth</item>
+               <item>Iohn David</item>
+               <item>VVilliam Rogers</item>
+               <item>Iohn French</item>
+               <item>Iohn Powel</item>
+               <item>Edmund Ellis</item>
+               <item>Edward Gamage</item>
+               <item>Robert Puel</item>
+               <item>Henry Nichols</item>
+               <item>Iohn Gowler</item>
+               <item>G<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iffith Darild</item>
+               <item>Robert Thomas</item>
+               <item>Wil. Watkins</item>
+               <item>Rice Davies</item>
+               <item>Morgan Thomas</item>
+               <item>Edward Barter</item>
+               <item>Ienkin Edward</item>
+               <item>Evan Lewelin</item>
+               <item>Ienkin Elliot</item>
+               <item>Ienkin Thomas</item>
+               <item>Iohn Nichol</item>
+               <item>Chriſto. Ienkin</item>
+               <item>George Mathew</item>
+               <item>Edward Thomas</item>
+               <item>Rice S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>muel</item>
+               <item>Iames Walker</item>
+               <item>Edward Morſe</item>
+               <item>Edward Wrinch</item>
+               <item>Wil. Wrinch</item>
+               <item>Iohn Morgan</item>
+               <item>Iohn Thomas</item>
+               <item>Ienkin Lloid</item>
+               <item>Matthew Cuffe</item>
+               <item>William Cuffe</item>
+               <item>Waking Nichols</item>
+               <item>Waking Thomas</item>
+               <item>Leyſon Thomas</item>
+               <item>Arnold Griffith</item>
+               <item>Charles Robeot</item>
+               <item>Tho. Williams</item>
+               <item>Griffith Richards</item>
+               <pb n="19" facs="tcp:37139:11"/>
+               <item>Ienkin Evan</item>
+               <item>Thomas Davids</item>
+               <item>Anthony Lutton</item>
+               <item>Morgan Howel</item>
+               <item>David Lewis</item>
+               <item>William David</item>
+               <item>Griffith Howel</item>
+               <item>Rawleigh Fox</item>
+               <item>Thomas Griffith</item>
+               <item>Morgan Cook</item>
+               <item>Thomas Nichol</item>
+               <item>Richard Ienkin</item>
+               <item>Iohn Harry</item>
+               <item>Thomas Thomas</item>
+               <item>David Lewelin</item>
+               <item>Ienkin Griffith</item>
+               <item>Howel Prichard</item>
+               <item>Evan Howel</item>
+               <item>Thomas Iohn</item>
+               <item>Rees William</item>
+               <item>Morgan David</item>
+               <item>Richard Howel</item>
+               <item>William Howel</item>
+               <item>Morgan Griffith</item>
+               <item>Morgan Thomas</item>
+               <item>Edw. Matthew</item>
+               <item>Edward Thomas</item>
+               <item>Morgan Lewis</item>
+               <item>Morgan Evan</item>
+               <item>William Thomas</item>
+               <item>Lewis Harry</item>
+               <item>Watkin Robert</item>
+               <item>Watkin Thomas</item>
+               <item>Rice Iohn</item>
+               <item>Iohn Moſes</item>
+               <item>Thomas Iohn</item>
+               <item>Harry Philip</item>
+               <item>Riche Ioh. William</item>
+               <item>Edward Thomas</item>
+               <item>Lewellin Iohn</item>
+               <item>Andrew Roſſer</item>
+               <item>William Iohn</item>
+               <item>Lewis Iohn</item>
+               <item>Robert Philips</item>
+               <item>Morgan William</item>
+               <item>Roſſer Thomas</item>
+               <item>Iohn William</item>
+               <item>Morgan Bruir</item>
+               <item>Reinold Morgan</item>
+               <item>William Thomas</item>
+               <item>Warkin Iones</item>
+               <item>Iohn Day</item>
+               <item>VVil. Morgan</item>
+               <item>Edw. Rowland</item>
+               <item>Edward Lloid</item>
+               <item>Henry Morgan</item>
+               <item>Mo. Tho Gunter</item>
+               <item>Evan Iones</item>
+               <item>William Philip</item>
+               <item>Edward Gabriel</item>
+               <item>Miles Bruer</item>
+               <item>William Ienkins</item>
+               <item>Evan Roſſer Tho.</item>
+               <item>Lewis Morgan</item>
+               <item>Iohn Barkley</item>
+               <item>Tho. ap Thomas</item>
+               <item>Howel Iohn</item>
+               <item>Roſſer Richard</item>
+               <item>William Richard</item>
+               <item>Walter Howel</item>
+               <item>Knywilling Iohn</item>
+               <item>Rob. Williams</item>
+               <item>Henry Williams</item>
+               <item>Wil. Williams</item>
+               <item>Edmond Turban</item>
+               <item>Evan Roſſer Tho.</item>
+               <item>Giles Lewis</item>
+               <item>Roſſer Thomas</item>
+               <item>Lewelin David</item>
+               <item>Philip William</item>
+               <item>Edmond Harry</item>
+               <item>Philip Thomas</item>
+               <item>Rice Iohn David</item>
+               <item>Mered. Thomas</item>
+               <item>David Evan</item>
+               <item>Philip Thomas</item>
+               <item>Iohn William</item>
+               <item>Morgan William</item>
+               <item>Patrick Walter</item>
+               <item>Gibbon William</item>
+               <item>Iohn Howel</item>
+               <item>Nathaniel Ripid</item>
+               <item>Iohn Evans</item>
+               <item>Samuel Lort</item>
+               <item>Robert White</item>
+               <item>Thomas Elliot</item>
+               <item>Henry Garlake</item>
+               <item>Edward Wills</item>
+               <item>Richard Lort</item>
+               <item>Giles Denham</item>
+               <item>Abel Biſhop</item>
+               <item>Griffith Howel</item>
+               <pb n="20" facs="tcp:37139:12"/>
+               <item>Rice Price</item>
+               <item>Rober Tennant</item>
+               <item>Thomas Warren</item>
+               <item>Stephen Young</item>
+               <item>Iohn Elliot <hi>jun.</hi>
+               </item>
+               <item>Thomas Howel</item>
+               <item>William Hughs</item>
+               <item>William Steward</item>
+               <item>David Dyer</item>
+               <item>Iames Picton</item>
+               <item>Ieni in Iones</item>
+               <item>William Moyl</item>
+               <item>Thomas Wills</item>
+               <item>Edward Morris</item>
+            </list>
+            <div type="part">
+               <head>From the Church of Chriſt at <hi>Lan<g ref="char:EOLhyphen"/>gom</hi> in <hi>Penbrook</hi>
+                  <g ref="char:EOLunhyphen"/>ſhire, the <hi>11</hi> month, <hi>17</hi> day, <hi>1655.</hi>
+               </head>
+               <list>
+                  <item>Edward Carver</item>
+                  <item>Iohn Sayes</item>
+                  <item>Chriſtop. Iackſon</item>
+                  <item>Hump. Gunter</item>
+                  <item>Eraſmus Hicks</item>
+                  <item>Anthonie Stocks</item>
+                  <item>Iohn Lewis</item>
+                  <item>Owen Young</item>
+                  <item>Thomas Melets</item>
+                  <item>Iohn Luntley</item>
+                  <item>Robert Peieſt</item>
+                  <item>Richard Brown</item>
+                  <item>Stephen Love</item>
+                  <item>Peregrine Philips</item>
+                  <item>Thomas Smith</item>
+                  <item>Richard Rayler</item>
+                  <item>Edmond Thomas</item>
+                  <item>Walter William</item>
+                  <item>William Watkin</item>
+                  <item>Roſ. Tho. Griffith</item>
+                  <item>Evan Lewes</item>
+                  <item>Rice Harry</item>
+                  <item>Iames Richard</item>
+                  <item>Thomas William</item>
+                  <item>Philip Lewis</item>
+                  <item>Iames Lewis</item>
+                  <item>Morgan Roſſer</item>
+                  <item>Thomas Evans</item>
+                  <item>Nicholas Watkin</item>
+                  <item>Lewis Rice</item>
+                  <item>William Evan</item>
+                  <item>Rice Iohn Lewis</item>
+                  <item>Iames Roſſer</item>
+                  <item>Harry Llewellin</item>
+                  <item>Iohn Rees</item>
+                  <item>Wil. Iohn Roſſer</item>
+                  <item>Harry L<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wis</item>
+                  <item>Roſ. Th. William.</item>
+                  <item>Th. Ed. Thomas</item>
+                  <item>Wil. Iohn Morg.</item>
+                  <item>Thom. Edwards</item>
+                  <item>Thomas Iones</item>
+                  <item>Iohn David</item>
+                  <item>Iohn Thomas</item>
+                  <item>Edward Morgan</item>
+                  <item>David Morgan</item>
+                  <item>Iohn Davies</item>
+                  <item>Roſſer Watkin</item>
+                  <item>Iohn Lew<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</item>
+                  <item>VVatkin Harry</item>
+                  <item>Thomas Howel</item>
+                  <item>Lewis Llewelin</item>
+                  <item>Philip Rees</item>
+                  <item>Edmund Evan</item>
+                  <item>Iohn Iones</item>
+                  <item>Edmund Morgan</item>
+                  <item>Thomas William</item>
+                  <item>Elias Harry</item>
+                  <item>Evan VVilliam</item>
+                  <item>Thomas Morgan</item>
+                  <item>VVat. Ioh. Philip</item>
+                  <item>Harry Morgan</item>
+                  <item>VVilliam David</item>
+                  <item>Lewis David</item>
+                  <item>Thomas Evan</item>
+                  <item>Thomas David</item>
+                  <item>Ioh. Phil. VVillia<g ref="char:cmbAbbrStroke">̄</g>
+                  </item>
+                  <item>Thom. Rowland</item>
+                  <item>Rowland Robert</item>
+                  <item>VVill. Ritherſh</item>
+                  <item>VValter George</item>
+                  <item>Henry Morgan</item>
+                  <item>Iohn Herbert</item>
+                  <item>Ioſhua Miller</item>
+                  <item>Thomas William</item>
+                  <item>Watkin Benedict</item>
+                  <item>David Iohn</item>
+                  <item>Lawrence Reece</item>
+                  <item>Lew. Harr. VVat.</item>
+                  <item>Edward Lewis</item>
+                  <item>Harry Edmond</item>
+                  <item>Harry Iohn</item>
+                  <pb n="21" facs="tcp:37139:12"/>
+                  <item>Reynald Morgan</item>
+                  <item>Rice Iohn Lewis</item>
+                  <item>Wil. Wat. Roſſer</item>
+                  <item>Harry Evan Harry</item>
+                  <item>Th. Iohn Roſſer</item>
+                  <item>Evan Roſſer</item>
+                  <item>Gregory David</item>
+                  <item>Rice Philip</item>
+                  <item>Lew. Roſſ. VVat.</item>
+                  <item>VVill. Benedict</item>
+                  <item>Thomas Reece</item>
+                  <item>VVilliam Green</item>
+                  <item>Iohn Myles</item>
+                  <item>David Davi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</item>
+                  <item>William Thomas</item>
+                  <item>Morgan Iones</item>
+                  <item>Iohn Price</item>
+                  <item>Lewis Thomas</item>
+                  <item>Iohn Thomas</item>
+                  <item>Evan Bowen</item>
+                  <item>Howel Griffith</item>
+                  <item>Thomas Iones</item>
+                  <item>Iohn VVilliams</item>
+                  <item>Iohn Beaban</item>
+                  <item>David Thomas</item>
+                  <item>Thomas ab Evan</item>
+                  <item>David Hopkin</item>
+                  <item>Owen Llewelin</item>
+                  <item>David Hopkin</item>
+                  <item>Evan Thomas</item>
+                  <item>Edward Robert</item>
+                  <item>Thomas Hopkin</item>
+                  <item>VVill. Nicholas</item>
+                  <item>Iohn Morgan</item>
+                  <item>Sim Butler</item>
+                  <item>Philip Iohn</item>
+                  <item>VVil. Thomas</item>
+                  <item>David Thomas</item>
+                  <item>Robert Matthews</item>
+                  <item>Charls Morgan</item>
+                  <item>Philip Ienkin</item>
+                  <item>William Mathew</item>
+                  <item>VVill. Morgan</item>
+                  <item>Hugh Bayly</item>
+                  <item>VVill. Morgan</item>
+                  <item>David Griffith</item>
+                  <item>Owen Dowl</item>
+                  <item>Thomas Hopkin</item>
+                  <item>Richard Edward</item>
+                  <item>Thomas Iohn</item>
+                  <item>Ienkin Franklin</item>
+                  <item>Iohn Knayth</item>
+                  <item>Nicholas Tanner</item>
+                  <item>VVilliam Rees</item>
+                  <item>Moſes Whityard</item>
+                  <item>Reeſe Pue</item>
+                  <item>George Williams</item>
+                  <item>VVill. Badcock</item>
+                  <item>Evan Iohn</item>
+                  <item>Edward William</item>
+                  <item>Roger Thomas</item>
+                  <item>Howel Iohn</item>
+                  <item>Evan Llewelin</item>
+                  <item>Iohn D<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vid</item>
+                  <item>Leiſon David</item>
+                  <item>Iohn Davies</item>
+                  <item>Morgan Iones</item>
+                  <item>George Rood</item>
+                  <item>Philip Iones</item>
+                  <item>Llewelin Evan</item>
+                  <item>David Lawrence</item>
+                  <item>H<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gh Matthew</item>
+                  <item>Wi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>liam Thomas</item>
+                  <item>Evan Tory</item>
+                  <item>Robert Edward</item>
+                  <item>Iohn Givelin</item>
+                  <item>Richard Elſe</item>
+                  <item>George Harry</item>
+                  <item>Hopkin David</item>
+                  <item>Philip David</item>
+                  <item>Griffith Bowen</item>
+                  <item>Francis Williams</item>
+                  <item>Howel Iones</item>
+                  <item>Reynold Thomas</item>
+                  <item>Robert Callow</item>
+                  <item>VVilliam Philips</item>
+                  <item>Iames Philips</item>
+                  <item>Robert Morgan</item>
+                  <item>David VVilliam</item>
+                  <item>Morris Iohn</item>
+                  <item>David Morgan</item>
+                  <item>William Philip</item>
+                  <item>David Ienkin</item>
+                  <item>Daniel william</item>
+                  <item>Ieavan William</item>
+                  <item>Lewis Richard</item>
+                  <item>Will. Huddliſton</item>
+                  <item>Abeding Godfre.</item>
+                  <item>Morgan Aubre</item>
+                  <item>Henry Griffith</item>
+                  <item>Thomas Proud</item>
+                  <item>Morgan Robert</item>
+                  <pb n="22" facs="tcp:37139:13"/>
+                  <item>Thomas Beevan</item>
+                  <item>William Thomas</item>
+                  <item>Griffith William</item>
+                  <item>Vincent Powel</item>
+                  <item>William Watkins</item>
+                  <item>Thomas Watkins</item>
+                  <item>William Watkins</item>
+                  <item>Rice Powel</item>
+                  <item>William Proſerp</item>
+                  <item>Owen Parry Iohn</item>
+                  <item>Howel Iones</item>
+                  <item>Lews Thomas</item>
+                  <item>Thomas Proſſer</item>
+                  <item>Watkin Thomas</item>
+                  <item>Ienkin Morgan</item>
+                  <item>Watkin Philips</item>
+                  <item>Watkin Lewis</item>
+                  <item>William Prichard</item>
+                  <item>Thomas William</item>
+                  <item>Thomas Ienkin</item>
+                  <item>Will. Wa<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kin</item>
+                  <item>David Rogers</item>
+                  <item>Roger Iones</item>
+                  <item>Watkin Thomas</item>
+                  <item>Humph. George</item>
+                  <item>William Price</item>
+                  <item>Richard Powel</item>
+                  <item>William Powel</item>
+                  <item>Thomas Powel</item>
+                  <item>William Parry</item>
+                  <item>Thomas David</item>
+                  <item>William Philip</item>
+                  <item>Richard Prees</item>
+                  <item>Walter Griffith</item>
+                  <item>Iohn Medith</item>
+                  <item>Roger Morgan</item>
+                  <item>Roger Proſſer</item>
+                  <item>Thomas Lloid</item>
+                  <item>William Morgan</item>
+                  <item>Thomas Pugh</item>
+                  <item>D<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vid Pugh</item>
+                  <item>Richard Williams</item>
+                  <item>Edward Bruhord</item>
+                  <item>Llewelin William</item>
+                  <item>Thomas Fainton</item>
+                  <item>Iames Philips</item>
+                  <item>Anthony Rydley</item>
+                  <item>Richard Coſlat</item>
+                  <item>Charls Roſſer</item>
+                  <item>Rog. Tho. Badam</item>
+                  <item>Philip William</item>
+                  <item>Morgan Roſſer</item>
+                  <item>Lewis Ienkin</item>
+                  <item>W<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lliam Morgan</item>
+                  <item>Richard Gibbon</item>
+                  <item>Wil. Ioh. Morgan</item>
+                  <item>William Badam</item>
+                  <item>Thomas Edward</item>
+                  <item>Lew. Iohn Howel</item>
+                  <item>Iohn Howel Tho.</item>
+                  <item>Iohn Roſſer</item>
+                  <item>William Morgan</item>
+                  <item>Andrew Morgan</item>
+                  <item>Mirick David</item>
+                  <item>Edward Lewis</item>
+                  <item>Rich. Iohn</item>
+                  <item>Thomas Price</item>
+                  <item>Watkin Ienkin</item>
+                  <item>Tho. Williams</item>
+                  <item>Rees David</item>
+                  <item>Thomas Lewis</item>
+                  <item>Iohn Ienkin</item>
+                  <item>Richard Creed</item>
+                  <item>Iohn Iones</item>
+                  <item>Thomas Edmund</item>
+                  <item>Watkin Ienkin</item>
+                  <item>Ienkin Watkin</item>
+                  <item>VVill. VVatkin</item>
+                  <item>Roſſer Morgan</item>
+                  <item>Rees Iones</item>
+                  <item>Edmond David</item>
+                  <item>Roſſer William</item>
+                  <item>Harry Lewis</item>
+                  <item>Morgan Iohn</item>
+                  <item>Thomas William</item>
+                  <item>William Ienkin</item>
+                  <item>Iohn Roſſer</item>
+                  <item>Renald William</item>
+                  <item>Iames Watkin</item>
+                  <item>Iohn Parry</item>
+                  <item>Watkin Harry</item>
+                  <item>Ioh. Roſſer</item>
+                  <item>Ioh. William</item>
+                  <item>Renald Will. Preet</item>
+                  <item>Andrew Ienkin</item>
+                  <item>Ric. Ioh. Meredith</item>
+                  <item>Iames Iames</item>
+                  <item>Meredith Richard</item>
+                  <item>Rice Griffith</item>
+                  <item>Walter Thomas</item>
+                  <item>William Philip</item>
+                  <item>William David</item>
+                  <pb n="23" facs="tcp:37139:13"/>
+                  <item>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>illiam Iones</item>
+                  <item>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en. <hi>R.</hi> Williams</item>
+                  <item>Robert Knaeth</item>
+                  <item>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>hn David</item>
+                  <item>Owen William</item>
+                  <item>Thomas Lloid</item>
+                  <item>Edward Frood</item>
+                  <item>William Raterd</item>
+                  <item>Rees Iohn</item>
+                  <item>Evan Ienkin</item>
+                  <item>Michael Howard</item>
+                  <item>Robert Thomas</item>
+                  <item>Thomas Rice</item>
+                  <item>Daniel Howel</item>
+                  <item>Ien. Gri<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h</item>
+                  <item>Llew<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lin Morgan</item>
+                  <item>William Iones</item>
+                  <item>Hamphry Philips</item>
+                  <item>Thomas Parry</item>
+                  <item>Will. Watkin</item>
+                  <item>Owen Lewis</item>
+                  <item>Evan Llewelin</item>
+                  <item>Matthew Hodſon</item>
+                  <item>Walter Proſſer</item>
+                  <item>Edw. William</item>
+                  <item>William Hughs</item>
+                  <item>Philip Lacock</item>
+                  <item>Philip Pember</item>
+                  <item>Richard Clark</item>
+                  <item>Edward Morgan</item>
+                  <item>Thomas Maſon</item>
+                  <item>Euſtace Maſon</item>
+                  <item>Thom. Matthews</item>
+                  <item>Iohn Larcot</item>
+                  <item>Richard Heigh</item>
+                  <item>Iames Lacock</item>
+                  <item>Iames Crews</item>
+                  <item>Walter Edwards</item>
+                  <item>Roger Watkin</item>
+                  <item>Thomas Proſſer</item>
+                  <item>Thomas Bevan</item>
+                  <item>Thomas William</item>
+                  <item>Thomas Watkin</item>
+                  <item>Roger Proſſer</item>
+                  <item>Roger Philip</item>
+                  <item>Iohn Iones</item>
+                  <item>Thomas Proſſer</item>
+                  <item>Thomas Williams</item>
+                  <item>Watkin Iohn</item>
+                  <item>R<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es Price</item>
+                  <item>Richard Bevor</item>
+                  <item>Howel Yohan</item>
+                  <item>Thomas Lewis</item>
+                  <item>Iames London</item>
+                  <item>Thomas London</item>
+                  <item>Iames Williams</item>
+                  <item>Watkin Brown</item>
+                  <item>Iohn Lewis</item>
+                  <item>H<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rry Rees</item>
+                  <item>Watkin William</item>
+                  <item>Oliver Gilbert</item>
+                  <item>David Francis</item>
+                  <item>Thomas Williams</item>
+                  <item>Roger Iones</item>
+                  <item>Chriſtoph. Price</item>
+                  <item>Iohn Edward</item>
+                  <item>Iohn Morgan</item>
+                  <item>Iohn Richard</item>
+                  <item>Thomas Lewis</item>
+                  <item>Edw. Owſley</item>
+                  <item>William Gunter</item>
+                  <item>Roſſer Ienkin</item>
+                  <item>Iohn Parry</item>
+                  <item>Thomas Rogers</item>
+                  <item>Anthony Parry</item>
+                  <item>Lewis Hughs</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Abergaveny.</head>
+               <list>
+                  <item>W<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lter Sampſon</item>
+                  <item>Richard Iohn</item>
+                  <item>Peter Harry</item>
+                  <item>G<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iffith Ienkin</item>
+                  <item>William Thomas</item>
+                  <item>Howel Lawrence</item>
+                  <item>Thomas Richard</item>
+                  <item>Reynold Tumlin</item>
+                  <item>Walter William</item>
+                  <item>Edward Water</item>
+                  <item>Evan Griffith</item>
+                  <item>H<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rry Thomas</item>
+                  <item>Will. Nicholas</item>
+                  <item>Iohn David</item>
+                  <item>Iohn Iones</item>
+                  <item>William Davies</item>
+                  <item>Iohn Abbot</item>
+                  <item>Will. Prichard</item>
+                  <item>Richard Roſſer</item>
+                  <item>Edward Giles</item>
+                  <item>Walter Williams</item>
+                  <item>William Morgan</item>
+                  <item>Andrew Morgan</item>
+                  <item>Sampſon Ienkin</item>
+                  <pb n="24" facs="tcp:37139:14"/>
+                  <item>Lewis Samuel</item>
+                  <item>Thomas William</item>
+                  <item>Ioſhua Roſſer</item>
+                  <item>Richard Gibeo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+                  <item>Walt Williams</item>
+                  <item>William Beran</item>
+                  <item>Morris Philip</item>
+                  <item>Iohn Hughs <hi>Sen.</hi>
+                  </item>
+                  <item>Stephen Hughs</item>
+                  <item>Richard Ienkins</item>
+                  <item>Evan Davies</item>
+                  <item>David Williams</item>
+                  <item>David Harry</item>
+                  <item>David Morris</item>
+                  <item>Walt. Richard</item>
+                  <item>Harry William</item>
+                  <item>Nich. Richard</item>
+                  <item>Iohn Nicholas</item>
+                  <item>Anthony Griffith</item>
+                  <item>Samuel Iones</item>
+                  <item>Ien. Daukings</item>
+                  <item>Iohn Rice</item>
+                  <item>Thomas ap Owen</item>
+                  <item>Iohn William</item>
+                  <item>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>evan ap Owen</item>
+                  <item>Dav. Wil. Philip</item>
+                  <item>Morgan Thomas</item>
+                  <item>Rees Evan</item>
+                  <item>David Evan</item>
+                  <item>Iohn Ievan</item>
+                  <item>David Richard</item>
+                  <item>William Rees</item>
+                  <item>Evan Dan. Griffit.</item>
+                  <item>Rees David</item>
+                  <item>David Griffith</item>
+                  <item>Iohn Evan</item>
+                  <item>William David</item>
+                  <item>Thomas Iohn</item>
+                  <item>Evan Thomas</item>
+                  <item>Iohn Powel</item>
+                  <item>Meredith Davis</item>
+                  <item>Francis Davis</item>
+                  <item>Thomas David</item>
+                  <item>Rice Iohns</item>
+                  <item>Drahern Evan</item>
+                  <item>David Iohns</item>
+                  <item>Dav. Matthew</item>
+                  <item>Owen David</item>
+                  <item>Rees Iohn</item>
+                  <item>Morgan Iohn</item>
+                  <item>Iohn Bowen</item>
+                  <item>Griffit. Humphry</item>
+                  <item>Thomas Morgan</item>
+                  <item>Iohn Owen</item>
+                  <item>Rees Thomas</item>
+                  <item>Griffith Iohn</item>
+                  <item>Dav. Bowen</item>
+                  <item>Owen David</item>
+                  <item>Morgan Thomas</item>
+                  <item>Iohn Evan</item>
+                  <item>Evan Morgan</item>
+                  <item>Iohn Walter</item>
+                  <item>Richard Hugh</item>
+                  <item>David Harry</item>
+                  <item>Antho. Thomas</item>
+                  <item>Ezekias Thomas</item>
+                  <item>Iohn David</item>
+                  <item>Griffith Hopkin.</item>
+               </list>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:37139:14"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
